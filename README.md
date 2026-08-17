@@ -1,28 +1,28 @@
-<h1 align="center">Hola, soy Ivan Puga 👋</h1>
-<h3 align="center">Desarrollador de Software Full Stack | Guayaquil, Ecuador 🇪🇨</h3>
+<h1 align="center">Hi, I'm Ivan Puga 👋</h1>
+<h3 align="center">Full Stack Software Developer | Guayaquil, Ecuador 🇪🇨</h3>
 
 <p align="center">
   <a href="mailto:ipuga2201@gmail.com">
     <img src="https://img.shields.io/badge/Email-ipuga2201%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Tel%C3%A9fono-%2B593%20991432632-25D366?style=flat&logo=whatsapp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Guayaquil%2C%20Ecuador-blue?style=flat&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Phone-%2B593%20991432632-25D366?style=flat&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Guayaquil%2C%20Ecuador-blue?style=flat&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
 
-### 🧑‍💻 Sobre mí
+### 🧑‍💻 About Me
 
-Desarrollador apasionado, comprometido con ampliar mis competencias técnicas y alcanzar la excelencia en el desarrollo de software. Me enfoco en la entrega de soluciones **eficientes y escalables**, y disfruto asumiendo proyectos desafiantes que fomenten el crecimiento y la innovación. Me mantengo activo integrando **inteligencia artificial** en flujos de trabajo de desarrollo para automatizar procesos y potenciar la productividad.
+Passionate developer committed to expanding my technical skills and achieving excellence in software development. I focus on delivering **efficient and scalable** solutions, and I enjoy taking on challenging projects that foster growth and innovation. I stay active integrating **artificial intelligence** into development workflows to automate processes and boost productivity.
 
-- 🎓 Ingeniería en Desarrollo de Software — Universidad Politécnica Salesiana (2020 - 2024)
-- 💼 Actualmente en **Iterlab S.A.** desarrollando soluciones full stack potenciadas por IA
-- 🤖 Explorando integración de LLMs, ingeniería de prompts y flujos de trabajo asistidos por IA (Claude Code)
-- 🌱 Aprendiendo constantemente sobre nuevas tendencias de la industria
+- 🎓 Software Development Engineering — Universidad Politécnica Salesiana (2020 - 2024)
+- 💼 Currently at **Iterlab S.A.**, building AI-powered full stack solutions
+- 🤖 Exploring LLM integration, prompt engineering, and AI-assisted workflows (Claude Code)
+- 🌱 Constantly learning about new industry trends
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Technologies & Tools
 
 **Frontend**
 <p>
@@ -38,14 +38,14 @@ Desarrollador apasionado, comprometido con ampliar mis competencias técnicas y 
   <img src="https://img.shields.io/badge/Oracle%20JD%20Edwards-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
-**Inteligencia Artificial**
+**Artificial Intelligence**
 <p>
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Integraci%C3%B3n%20LLM-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM%20Integration-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-6E56CF?style=for-the-badge" />
 </p>
 
-**Nube & DevOps**
+**Cloud & DevOps**
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
@@ -55,7 +55,7 @@ Desarrollador apasionado, comprometido con ampliar mis competencias técnicas y 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-**Bases de Datos**
+**Databases**
 <p>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -65,35 +65,35 @@ Desarrollador apasionado, comprometido con ampliar mis competencias técnicas y 
 
 ---
 
-### 💼 Experiencia Profesional
+### 💼 Professional Experience
 
-**Desarrollador de Software (Remoto)** — Iterlab S.A. | *Actualidad*
-- Desarrollo full stack utilizando Node.js, TypeScript y React / Next.js
-- Diseño e integración de funcionalidades de IA mediante APIs de LLM
-- Desarrollo de flujos de trabajo asistidos por IA para automatizar procesos de negocio
-- Construcción de APIs REST consumidas por servicios de IA y aplicaciones web
-- Despliegue en AWS (S3, Lambda, CloudFront) y VPS de DigitalOcean con Nginx
+**Software Developer (Remote)** — Iterlab S.A. | *Present*
+- Full stack development using Node.js, TypeScript, and React / Next.js
+- Design and integration of AI features through LLM APIs
+- Development of AI-assisted workflows to automate business processes
+- Building REST APIs consumed by AI services and web applications
+- Deployment on AWS (S3, Lambda, CloudFront) and DigitalOcean VPS with Nginx
 
-**Desarrollador de Software (Remoto)** — Certifisa S.A. | *2022 – 2024*
-- Desarrollo backend utilizando Oracle JD Edwards (Java)
-- Desarrollo de módulos de facturación electrónica
-- Implementación de nuevas funcionalidades y mejoras al sistema
-- Corrección de errores y mantenimiento de aplicaciones empresariales
+**Software Developer (Remote)** — Certifisa S.A. | *2022 – 2024*
+- Backend development using Oracle JD Edwards (Java)
+- Development of electronic invoicing modules
+- Implementation of new features and system enhancements
+- Bug fixing and maintenance of enterprise applications
 
 ---
 
-### 🚀 Proyectos Destacados
+### 🚀 Featured Projects
 
-| Proyecto | Descripción |
+| Project | Description |
 |---|---|
-| **Odoo ↔ Oracle JD Edwards (INPROEL)** | Integración de sistemas ERP y automatización de procesos |
-| **Migración JD Edwards & Facturación Electrónica (FYBECA)** | Migración de sistema y adaptación a normativa de facturación electrónica |
-| **Nextcloud ↔ Oracle JD Edwards (CERTIFISA)** | Gestión documental y adjuntos de archivos integrados con ERP |
-| **Plataformas Full Stack con IA (Iterlab)** | Apps web con Node.js, TypeScript, React y Next.js potenciadas por LLMs |
+| **Odoo ↔ Oracle JD Edwards (INPROEL)** | ERP systems integration and process automation |
+| **JD Edwards Migration & Electronic Invoicing (FYBECA)** | System migration and adaptation to electronic invoicing regulations |
+| **Nextcloud ↔ Oracle JD Edwards (CERTIFISA)** | Document management and file attachments integrated with ERP |
+| **AI-Powered Full Stack Platforms (Iterlab)** | Web apps with Node.js, TypeScript, React, and Next.js powered by LLMs |
 
 ---
 
-### 📫 Contáctame
+### 📫 Get in Touch
 
 <p align="left">
   <a href="mailto:ipuga2201@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -102,4 +102,4 @@ Desarrollador apasionado, comprometido con ampliar mis competencias técnicas y 
 
 ---
 
-<p align="center"><i>“Comprometido con la excelencia técnica y la innovación en cada proyecto.”</i></p>
+<p align="center"><i>"Committed to technical excellence and innovation in every project."</i></p>
